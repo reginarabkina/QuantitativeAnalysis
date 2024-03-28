@@ -1,2 +1,2 @@
-# QuantitativeAnalysis
-Collection of projects from MKTG 2602 (Quantitative Analysis of Consumer Data) [ongoing]
+# Quantitative Analysis
+Exploring the fundamentals of quantitative analysis and statistical techniques using the R programming language.
