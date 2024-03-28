@@ -3,4 +3,4 @@ Exploring the fundamentals of quantitative analysis and statistical techniques u
 
 Contains progress from a project that analyzes Spotify's features:
 * HTML file of the report
-* Dataset
+* Dataset: https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db/data 
